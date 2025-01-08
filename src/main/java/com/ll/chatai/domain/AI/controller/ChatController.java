@@ -1,4 +1,4 @@
-package com.ll.chatai.domain.controller;
+package com.ll.chatai.domain.AI.controller;
 
 
 import lombok.RequiredArgsConstructor;
